@@ -7,4 +7,4 @@ def hello_world():
     return 'Hello, World! its me phanuruj'
 
 if __name__ == 'phanuruj':
-    app.run(debug=True)
+    app.run(debug=Truem port=80)
